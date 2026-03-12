@@ -3,6 +3,9 @@
     "dev": "tsx src/index.ts"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.1",
     "tsx": "^4.0.0",
     "typescript": "^5.9.3"
   }
