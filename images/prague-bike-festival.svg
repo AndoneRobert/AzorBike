@@ -1,0 +1,23 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" rx="24" fill="#0B1222"/>
+  <rect x="40" y="70" width="1120" height="560" rx="20" fill="#101A31" stroke="#2A3A56"/>
+  <path d="M120 510H1080" stroke="#334155" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="320" cy="500" r="92" stroke="#34D399" stroke-width="16"/>
+  <circle cx="620" cy="500" r="92" stroke="#34D399" stroke-width="16"/>
+  <path d="M320 500L430 370H560L620 500" stroke="#A7F3D0" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M430 370L515 500" stroke="#A7F3D0" stroke-width="14" stroke-linecap="round"/>
+  <path d="M560 370L660 320" stroke="#A7F3D0" stroke-width="14" stroke-linecap="round"/>
+  <rect x="770" y="190" width="280" height="220" rx="18" fill="#1E293B" stroke="#334155"/>
+  <circle cx="840" cy="245" r="14" fill="#34D399"/>
+  <circle cx="900" cy="245" r="14" fill="#67E8F9"/>
+  <circle cx="960" cy="245" r="14" fill="#C4B5FD"/>
+  <text x="805" y="300" fill="#E2E8F0" font-size="34" font-family="Arial, sans-serif" font-weight="700">DJ STAGE</text>
+  <text x="805" y="345" fill="#94A3B8" font-size="24" font-family="Arial, sans-serif">Azor Bike Festival</text>
+  <rect x="150" y="170" width="170" height="120" rx="14" fill="#1E293B" stroke="#334155"/>
+  <text x="177" y="235" fill="#E2E8F0" font-size="22" font-family="Arial, sans-serif" font-weight="700">TRY BIKES</text>
+  <rect x="360" y="170" width="170" height="120" rx="14" fill="#1E293B" stroke="#334155"/>
+  <text x="395" y="235" fill="#E2E8F0" font-size="22" font-family="Arial, sans-serif" font-weight="700">RACES</text>
+  <rect x="570" y="170" width="170" height="120" rx="14" fill="#1E293B" stroke="#334155"/>
+  <text x="595" y="235" fill="#E2E8F0" font-size="22" font-family="Arial, sans-serif" font-weight="700">GIVEAWAYS</text>
+  <text x="120" y="120" fill="#34D399" font-size="28" font-family="Arial, sans-serif" font-weight="700">Prague City Center Street Closure</text>
+</svg>
